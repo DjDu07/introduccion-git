@@ -1,4 +1,4 @@
-# introduccion-git
+# Aprendiendo git y github
 Repositorio creado para experimentar con git y github
 
 ## descripción
