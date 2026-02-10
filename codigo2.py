@@ -1,2 +1,5 @@
 nombre = "Henry Danger"
-print("Hola" + nombre)
+print("Hola " + nombre)
+
+edad = str(23)
+print("Tienes " + edad + " años")
